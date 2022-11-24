@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8YtHUqi0WEYAlSvvvIzOM6AcVPSfr0iJ7LMGWUXs4K7sLt8sy65T5L92C634V4KZDHjQU3CwPNM5w2aKQlhRGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sim\\RiderProjects\\TestQuest\\TreeAutoSort\\TreeAutoSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sim\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

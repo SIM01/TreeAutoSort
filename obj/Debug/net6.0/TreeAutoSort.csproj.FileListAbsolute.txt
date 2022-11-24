@@ -1,0 +1,17 @@
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\bin\Debug\net6.0\TreeAutoSort.exe
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\bin\Debug\net6.0\TreeAutoSort.deps.json
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\bin\Debug\net6.0\TreeAutoSort.runtimeconfig.json
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\bin\Debug\net6.0\TreeAutoSort.dll
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\bin\Debug\net6.0\TreeAutoSort.pdb
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\obj\Debug\net6.0\TreeAutoSort.csproj.AssemblyReference.cache
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\obj\Debug\net6.0\TreeAutoSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\obj\Debug\net6.0\TreeAutoSort.AssemblyInfoInputs.cache
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\obj\Debug\net6.0\TreeAutoSort.AssemblyInfo.cs
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\obj\Debug\net6.0\TreeAutoSort.csproj.CoreCompileInputs.cache
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\obj\Debug\net6.0\TreeAutoSort.csproj.CopyComplete
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\obj\Debug\net6.0\TreeAutoSort.dll
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\obj\Debug\net6.0\refint\TreeAutoSort.dll
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\obj\Debug\net6.0\TreeAutoSort.pdb
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\obj\Debug\net6.0\TreeAutoSort.genruntimeconfig.cache
+C:\Users\Sim\RiderProjects\TestQuest\TreeAutoSort\obj\Debug\net6.0\ref\TreeAutoSort.dll
